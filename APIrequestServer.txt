@@ -6,10 +6,10 @@ const async = require('async');
 var httpPort = 4040;
 
 const client = new Client({
-  user: 'bellisjr',
-  host: 'localhost',
-  database: 'testdb',
-  password: 'Rose-hulman1',
+  user: 'xxxxxxx',
+  host: 'xxxxxx',
+  database: 'xxxxxxx',
+  password: 'xxxxxxx',
   port: 5432  //port for the database
 })
 client.connect();
